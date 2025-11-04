@@ -1,10 +1,9 @@
-# ⚡ Energy Consumption Analytics Dashboard (Phase 1 - No ML)
+# ⚡ Energy Consumption Analytics Dashboard
 
 ### 📊 Real-Time Energy Data Analysis using Streamlit & Plotly
 
 This project provides an **interactive dashboard** for analyzing **hourly energy consumption data** from the PJM Interconnection (a regional electricity transmission organization).
 The goal of this phase is to explore, visualize, and analyze energy consumption patterns — **without using any machine learning**.
-Machine learning features (forecasting & anomaly detection) will be added in **Phase 2**.
 
 ---
 
